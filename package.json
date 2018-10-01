@@ -1,0 +1,17 @@
+{
+  "name": "australia-gov-au-directory-generator",
+  "version": "0.0.1",
+  "description": "Transforms directory.gov.au data file into australia.gov.au content pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gordon Williamson <gordon.williamson@digital.gov.au>",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-xslt": "^4.0.0",
+    "request": "^2.88.0"
+  }
+}

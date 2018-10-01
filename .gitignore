@@ -1,0 +1,6 @@
+output/*
+src/export.xml
+node_modules/
+package-lock.json
+*.swp
+*.swo
